@@ -78,5 +78,3 @@ sales-commission-validator/
 
 🔨 In progress
 
-
-## lets see you are coming online or not 
